@@ -1,1 +1,2 @@
-# Activity_1.8_While_Python
+# Activity 1.8 - While
+Please follow the instructions within the provide Word document to complete this activity. To download the repository, click the green Code button and select Download Zip. You will then need to [extract](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5#:~:text=To%20unzip%20a%20single%20file,and%20then%20follow%20the%20instructions.) or [unzip](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5#:~:text=To%20unzip%20a%20single%20file,and%20then%20follow%20the%20instructions.) the folder in order to open the programs within.
